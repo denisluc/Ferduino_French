@@ -5,8 +5,8 @@
 // clock using a DS1307 and a 16x2 LCD.
 //
 // I assume you know how to connect the DS1307 and LCD.
-// DS1302:  SDA pin   -> Arduino Digital 4
-//          SCL pin   -> Arduino Digital 5
+// DS1302:  SDA pin   -> Arduino Digital 2
+//          SCL pin   -> Arduino Digital 3
 // LCD:     DB7       -> Arduino Digital 6
 //          DB6       -> Arduino Digital 7
 //          DB5       -> Arduino Digital 8
@@ -18,7 +18,7 @@
 #include <DS1307.h>
 
 // Init the DS1307
-DS1307 rtc(4, 5);
+DS1307 rtc(2, 3);
 
 // Init the LCD
 LiquidCrystal lcd(11, 10, 9, 8, 7, 6);

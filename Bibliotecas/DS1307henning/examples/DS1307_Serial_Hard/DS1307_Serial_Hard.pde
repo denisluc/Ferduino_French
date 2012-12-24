@@ -5,13 +5,13 @@
 // retrieve time- and date-data for you to manipulate.
 //
 // I assume you know how to connect the DS1307.
-// DS1307:  SDA pin   -> Arduino Digital 4
-//          SCL pin   -> Arduino Digital 5
+// DS1307:  SDA pin   -> Arduino Digital 20
+//          SCL pin   -> Arduino Digital 21
 
 #include <DS1307.h>
 
 // Init the DS1307
-DS1307  rtc(4, 5);
+DS1307  rtc(20, 21);
 
 // Init a Time-data structure
 Time  t;
