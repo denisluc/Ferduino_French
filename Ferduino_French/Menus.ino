@@ -1673,27 +1673,27 @@ void rever_dosagem_personalizada() // ------------------------------------------
   }    
   if(quinta_dosagem_personalizada_1 == 4)
   {
-    printButton_verde(tabela_textos[72], 200, 23, 220, 43);
+    printButton_verde(tabela_textos[198], 200, 23, 220, 43);
   }
   else
   {
-    printButton(tabela_textos[72], 200, 23, 220, 43);
+    printButton(tabela_textos[198], 200, 23, 220, 43);
   }    
   if(sexta_dosagem_personalizada_1 == 5)
   {
-    printButton_verde(tabela_textos[70], 230, 23, 250, 43);
+    printButton_verde(tabela_textos[199], 230, 23, 250, 43);
   }
   else
   {
-    printButton(tabela_textos[70], 230, 23, 250, 43);
+    printButton(tabela_textos[199], 230, 23, 250, 43);
   }
   if(sabado_dosagem_personalizada_1 == 6)
   {
-    printButton_verde(tabela_textos[70], 260, 23, 280, 43);
+    printButton_verde(tabela_textos[200], 260, 23, 280, 43);
   }
   else
   {
-    printButton(tabela_textos[70], 260, 23, 280, 43);
+    printButton(tabela_textos[200], 260, 23, 280, 43);
   }
   if(domingo_dosagem_personalizada_1 == 7)
   {
@@ -1792,27 +1792,27 @@ void rever_dosagem_personalizada() // ------------------------------------------
   }    
   if(quinta_dosagem_personalizada_2 == 4)
   {
-    printButton_verde(tabela_textos[72], 200, 93, 220, 113);
+    printButton_verde(tabela_textos[198], 200, 93, 220, 113);
   }
   else
   {
-    printButton(tabela_textos[72], 200, 93, 220, 113);
+    printButton(tabela_textos[198], 200, 93, 220, 113);
   }    
   if(sexta_dosagem_personalizada_2 == 5)
   {
-    printButton_verde(tabela_textos[70], 230, 93, 250, 113);
+    printButton_verde(tabela_textos[199], 230, 93, 250, 113);
   }
   else
   {
-    printButton(tabela_textos[70], 230, 93, 250, 113);
+    printButton(tabela_textos[199], 230, 93, 250, 113);
   }
   if(sabado_dosagem_personalizada_2 == 6)
   {
-    printButton_verde(tabela_textos[70], 260, 93, 280, 113);
+    printButton_verde(tabela_textos[200], 260, 93, 280, 113);
   }
   else
   {
-    printButton(tabela_textos[70], 260, 93, 280, 113);
+    printButton(tabela_textos[200], 260, 93, 280, 113);
   }
   if(domingo_dosagem_personalizada_2 == 7)
   {
@@ -1911,27 +1911,27 @@ void rever_dosagem_personalizada() // ------------------------------------------
   }    
   if(quinta_dosagem_personalizada_3 == 4)
   {
-    printButton_verde(tabela_textos[72], 200, 163, 220, 183);
+    printButton_verde(tabela_textos[198], 200, 163, 220, 183);
   }
   else
   {
-    printButton(tabela_textos[72], 200, 163, 220, 183);
+    printButton(tabela_textos[198], 200, 163, 220, 183);
   }    
   if(sexta_dosagem_personalizada_3 == 5)
   {
-    printButton_verde(tabela_textos[70], 230, 163, 250, 183);
+    printButton_verde(tabela_textos[199], 230, 163, 250, 183);
   }
   else
   {
-    printButton(tabela_textos[70], 230, 163, 250, 183);
+    printButton(tabela_textos[199], 230, 163, 250, 183);
   }
   if(sabado_dosagem_personalizada_3 == 6)
   {
-    printButton_verde(tabela_textos[70], 260, 163, 280, 183);
+    printButton_verde(tabela_textos[200], 260, 163, 280, 183);
   }
   else
   {
-    printButton(tabela_textos[70], 260, 163, 280, 183);
+    printButton(tabela_textos[200], 260, 163, 280, 183);
   }
   if(domingo_dosagem_personalizada_3 == 7)
   {
